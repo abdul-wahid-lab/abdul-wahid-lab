@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">* Creating bugs since 2024  <br>* I'm currently learning Artificial Intelligence, Machine Learning, NLP & Computer Vision  <br>* Goals: To become a leading AI researcher and contribute to impactful open-source projects  <br>* Fun fact: I debug faster when I talk to myself</p>
+<p align="left">* Creating bugs since 2022  <br>* I'm currently learning Artificial Intelligence, Machine Learning, NLP & Computer Vision  <br>* Goals: To become a leading AI researcher and contribute to impactful open-source projects  <br>* Fun fact: I debug faster when I talk to myself</p>
 
 ###
 
